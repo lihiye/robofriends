@@ -3,9 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import 'tachyons';
 import reportWebVitals from './reportWebVitals';
-import App from './App.js';
-//import { robots } from './robots';
-//import CardList from './CardList';
+import App from './containers/App';
 
 ReactDOM.render(
   <React.StrictMode>
